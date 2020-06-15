@@ -1,4 +1,4 @@
-# redis-cache
+# Redis and Node.js for data caching
 
 <p align="center">
   <img src="https://www.kindpng.com/picc/m/338-3389065_redis-logo-svg-hd-png-download.png" alt="redis-caching" width="500"/>
