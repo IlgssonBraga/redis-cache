@@ -4,6 +4,9 @@
   <img src="https://www.kindpng.com/picc/m/338-3389065_redis-logo-svg-hd-png-download.png" alt="redis-caching" width="500"/>
 </p>
 
+[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)](https://www.npmjs.com/)
+[![NPM License](https://img.shields.io/npm/l/all-contributors.svg?style=flat)](LICENSE.md)
+
 
 # :page_with_curl: About
 
